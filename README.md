@@ -6,7 +6,7 @@ Meu primeiro projeto de jogo solo, desenvolvido em Godot como projeto acadêmico
 
 **Hemolacria** é um jogo de estilo **Tower Defense**, atualmente em desenvolvimento.
 
-O jogo combina uma estética sombria e violenta com elementos de **RPG**, **sistemas baseados em sorte** e mecânicas **IDLE**.
+O jogo combina uma estética sombria e violenta com elementos de **RPG e  Tower Defense**, **sistemas baseados em sorte** e mecânicas **IDLE**.
 
 O jogador deverá enfrentar diferentes inimigos enquanto desenvolve e aprimora seus personagens e coleta recursos.
 
