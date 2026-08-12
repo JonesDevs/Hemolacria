@@ -1,8 +1,14 @@
 # Hemolacria
-Meu primeiro projeto de jogo, desenvolvido em Godot como projeto acadêmico e TCC da faculdade.
+
+Meu primeiro projeto de jogo solo, desenvolvido em Godot como projeto acadêmico e TCC da faculdade.
+
 ## 🎮 Sobre o jogo
 
-...
+**Hemolacria** é um jogo de estilo **Tower Defense**, atualmente em desenvolvimento.
+
+O jogo combina uma estética sombria e violenta com elementos de **RPG**, **sistemas baseados em sorte** e mecânicas **IDLE**.
+
+O jogador deverá enfrentar diferentes inimigos enquanto desenvolve e aprimora seus personagens e coleta recursos.
 
 ## 🛠️ Tecnologias
 
@@ -12,8 +18,8 @@ Meu primeiro projeto de jogo, desenvolvido em Godot como projeto acadêmico e TC
 
 ## 📌 Status
 
-Em desenvolvimento
+🚧 Em desenvolvimento
 
 ## 👨‍💻 Desenvolvedor
 
-JonesDevs / João Pedro / Jones
+**JonesDevs / João Pedro / Jones**
